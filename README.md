@@ -83,6 +83,7 @@ For support inquiries, please contact:
 
 ## License
 
-The IcoSix API is licensed under the [IcoSix API License Agreement](https://api.icosix.com/license.html).
+The IcoSix API is licensed under the [IcoSix API License Agreement]([https://api.icosix.com/license.html](https://www.icosix.com/disclaimer)).
 
 © 2025 IcoSix. All Rights Reserved. 
+
